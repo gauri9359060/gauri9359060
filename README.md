@@ -1,4 +1,3 @@
-# Gauri-Patil
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I am Gauri Patil
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About me
 - 🏫 Aspiring full stack web developer, learning MERN stack at Masai School.<br/>
