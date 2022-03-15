@@ -1,4 +1,14 @@
+
+
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-22-blue" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Developement-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Maharashtra-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
+</p>
+
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I am Gauri Patil
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About me
 - 🏫 Aspiring full stack web developer, learning MERN stack at Masai School.<br/>
 - 👩‍💻 Hands-on practice of solving more than 100DSA problems.<br/>
