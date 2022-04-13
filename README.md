@@ -1,82 +1,78 @@
 
 
- <p align="center">
+
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I am Gauri Patil
+
+
+<br/>
+
+<img align='right' src="https://static.javatpoint.com/blog/images/mern-stack.png" width="450" height="200">
+
+
+<p align="center">
 <img src="https://img.shields.io/badge/Age-22-blue" />
   <img src="https://img.shields.io/badge/Focus-Web%20Developement-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Maharashtra-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
+ &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; An Aspiring full stack web developer, proficient in MERN stack with hands-on practice of solving more than 100 DSA problems. A passionate Full Stack Web Developer, like to work on more challenging websites. I’m currently pursuing B.Tech in `Information Technology`. 
+I’m currently open for: a new `job opportunity` .
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I am Gauri Patil
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About me
-- 🏫 Aspiring full stack web developer, learning MERN stack at Masai School.<br/>
-- 👩‍💻 Hands-on practice of solving more than 100DSA problems.<br/>
-- 💻 I am a passionate frontend web developer, like to work on more challenging websites.<br/> 
-- 👩‍🎓 I’m currently pursuing BTech in `Information Technology`<br/>
-- 😃 I’m currently open for: a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1hYwHZ1SV80BFd3tDR3mT8CgvmueGWNIc/view?usp=sharing).<br/>
-- :nerd_face: Always `learning new things`
-
-
-## 👀 My Competitive Programming Profiles
+### 👀 My Competitive Programming Profiles
 
 <p align="center">
 	<a href="https://leetcode.com/gauri_7920/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3xRVkEaRXcFhO_QIQuZPdOU2lxYMBg8ltL7nwsHvITf_RNoWWnGVzk9VwIQxo_1igvM&usqp=CAU" alt="LeetCode"height="100px" width="100px"/></a>
 	<a href="https://www.hackerrank.com/gaurip388"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="HackerRank"/ height="100px" width="100px"></a>     
 </p>
 
-## 🛠️ My Skills
+## 🛠️ Technologies I used
 
-### 👉 Programming languages
-
-<p align="center"> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" width="100px" height="40px">
-   </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white" width="80px" height="40px">
-  </a>
+<p>
+    <img alt="Javascript"
+        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+        height="25px" />
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+        height="25px" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
+        height="25px" />
+    <img alt="Nodejs"
+        src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+        height="25px" />
+    <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
+        height="25px" />
+    <img alt="Express"
+        src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
+        height="25px" />   
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
+        height="25px" />
+    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+        height="25px" />
+    <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+        height="25px" />
+  
 </p>
 
 
-### 👉 Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" width="70px" height="40px">
-  </a>   
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white" width="70px" height="40px">
-  </a> 
-   &emsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="react" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="60px" height="40px">
-  </a> 
-</p>
 
- ### 👉 Software & Tools
+
+ ### 👉 Softwares & Tools
  
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-  &emsp;
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/visualstudiocode-%23181717.svg?style=plastic&logo=visualstudio&logoColor=blue"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="postman" src="https://img.shields.io/badge/postman-%230F9D58.svg?style=plastic&logo=postman&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-%235586A4.svg?style=plastic&logo=npm&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="material ui" src="https://img.shields.io/badge/mui-%2343B02A.svg?&style=plastic&logo=mui&logoColor=white"></a>
+<p >
+<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
+        height="25px" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"
+        height="25px" />
+<img alt="Material UI"
+        src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
+        height="25px" />
+<img alt="Prettier"
+    src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"
+        height="25px" />
+<img alt="postman"
+        src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
+        height="25px" />
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"
+        height="25px" />
 </p>
 
 
