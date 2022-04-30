@@ -17,7 +17,7 @@
 </p>
  An Aspiring full stack web developer, proficient in MERN stack with hands-on practice of solving more than 100 DSA problems. A passionate Full Stack Web Developer, like to work on more challenging websites. I’m currently pursuing B.Tech in `Information Technology`. 
 I’m currently open for: a new `job opportunity`.<br/>
-Have a look at my Resume here - <a href="https://drive.google.com/drive/folders/1HLWf-yTAcrETlIjc3DxTykRc7qKWKisq?usp=sharing">My Resume <a>
+Have a look at my Resume here - <a href="https://drive.google.com/file/d/1HoeYlf1cYvbFpvSsludsBwVpKkycXTAS/view?usp=sharing">My Resume <a>
 
 ### 👀 My Competitive Programming Profiles
 
