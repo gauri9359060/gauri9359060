@@ -10,13 +10,14 @@
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/Age-22-blue" />
+<img src="https://img.shields.io/badge/Age-21-blue" />
   <img src="https://img.shields.io/badge/Focus-Web%20Developement-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Maharashtra-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
- &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; An Aspiring full stack web developer, proficient in MERN stack with hands-on practice of solving more than 100 DSA problems. A passionate Full Stack Web Developer, like to work on more challenging websites. I’m currently pursuing B.Tech in `Information Technology`. 
-I’m currently open for: a new `job opportunity` .
+ An Aspiring full stack web developer, proficient in MERN stack with hands-on practice of solving more than 100 DSA problems. A passionate Full Stack Web Developer, like to work on more challenging websites. I’m currently pursuing B.Tech in `Information Technology`. 
+I’m currently open for: a new `job opportunity`.<br/>
+Have a look at my Resume here - <a href="https://drive.google.com/drive/folders/1HLWf-yTAcrETlIjc3DxTykRc7qKWKisq?usp=sharing">My Resume <a>
 
 ### 👀 My Competitive Programming Profiles
 
